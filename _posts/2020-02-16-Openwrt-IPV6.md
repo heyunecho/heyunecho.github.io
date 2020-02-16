@@ -18,6 +18,8 @@ article_header:
   background_color: '#ffffff'
   background_image:
     gradient: 'linear-gradient(0deg, rgba(0, 0, 0 , .3), rgba(0, 0, 0, .3))'
-    src: assets/background/morning.jpg
+    src: assets/background/sea.jpg
 ---
 this is a test.
+<!--more-->
+this is 
